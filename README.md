@@ -38,12 +38,5 @@ Asegúrate de tener las siguientes dependencias en tu archivo `pom.xml`:
         <artifactId>hibernate-core</artifactId>
         <version>6.5.2.Final</version>
     </dependency>
-
-    <!-- Otros -->
-    <dependency>
-        <groupId>org.springframework.boot</groupId>
-        <artifactId>spring-boot-starter-test</artifactId>
-        <scope>test</scope>
-    </dependency>
 </dependencies>
 ```
